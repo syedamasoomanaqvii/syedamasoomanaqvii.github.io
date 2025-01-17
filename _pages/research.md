@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Syeda Masooma Naqvi"
-permalink: /cv/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /resume
+  - /research
 ---
 
 {% include base_path %}
