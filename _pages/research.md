@@ -15,5 +15,5 @@ redirect_from:
 
 
 ## Workshops
-1. Syeda Masooma Naqvi, Malik Khaddar, and Harmanpreet Kaur. [Computational Reification of Creativity: How Generative AI
+1. Syeda Masooma Naqvi, Malik Khadar, and Harmanpreet Kaur. [Computational Reification of Creativity: How Generative AI
 Reshapes Creative Cognition](/files/CHI2025_Workshop_Tools4Thought.pdf) Workshop on Tools for Thought: Research and Design for Understanding, Protecting, and Augmenting Human Cognition with Generative AI at the ACM Conference on Human Factors in Computing Systems (CHI 2025).
