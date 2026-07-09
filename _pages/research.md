@@ -11,6 +11,8 @@ redirect_from:
 
 ## Conference Papers
 1. Syeda Masooma Naqvi, Ruichen He, and Harmanpreet Kaur. [Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design](/files/chi25-150.pdf) In Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI 2025).
+2. Syeda Masooma Naqvi, Gayathri Balaji, Angelique Laju, and Harmanpreet Kaur. [From Curiosity to Caution: How Expertise Shapes the Use of Interpretable Machine Learning9](/files/3805689.3812376-2.pdf) In The 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026).
+
 
 ## Workshops
 1. Syeda Masooma Naqvi, Malik Khaddar, and Harmanpreet Kaur. [Computational Reification of Creativity: How Generative AI
