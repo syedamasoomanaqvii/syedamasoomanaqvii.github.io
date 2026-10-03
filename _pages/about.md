@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a 3rd year PhD student, advised by [Lana Yarosh](https://lanayarosh.com) in the [GroupLens Research Lab](https://grouplens.org) at the University of Minnesota.
 
+**Research interests:** Human-Centered AI, Platform Governance, Recovery from Substance Use Disorders, Online Communities, ML Interpretability
+
 Off the clock: folk poetry, beginner guitar, and long walks with chats about history, politics, and culture.
 
 Who gets to create, decide, and participate? I study how technologies, and the rules that govern them, redistribute agency among people with unequal expertise and power.
