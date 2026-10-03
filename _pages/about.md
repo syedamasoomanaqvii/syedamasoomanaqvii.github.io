@@ -5,14 +5,24 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-sidebar:
-  - title: "Methods"
-    text: "Statistics & Econometrics · Mixed Methods · Participatory Design · UI/UX Design"
 ---
 
-I am a 3rd year PhD. student in Computer Science at the University of Minnesota where I am advised by [Lana Yarosh](https://lanayarosh.com). I am a part of the [GroupLens Research Lab](https://grouplens.org). I study how humans and AI make decisions together, with a focus on how group composition, experience, and expertise shape that collaboration. My work spans human-centered AI, interpretability, and explainable ML, where I evaluate existing tools and develop theory-driven design paradigms aligned with human cognitive and socio-organizational norms. I aim to offer  frameworks and guidance for responsible, reliable human–AI workflows.
+I'm a 3rd year PhD student, advised by [Lana Yarosh](https://lanayarosh.com) in the [GroupLens Research Lab](https://grouplens.org) at the University of Minnesota.
 
-I have a background in math and statistics, and it's still my favorite part of research.
+Off the clock: folk poetry, beginner guitar, and long walks with chats about history, politics, and culture.
+
+Who gets to create, decide, and participate? I study how technologies, and the rules that govern them, redistribute agency among people with unequal expertise and power.
+
+**Participatory design.** Which co-design methods center teens' voices and yield novel, feasible ideas? Teens in recovery co-design their own support technology; I compare solo vs. group, sketch vs. talk, and one day vs. many weeks, and score the ideas for novelty and feasibility.
+
+**Platform governance.** Does locking a Wikipedia page protect it, or push people out? I'm building causal evidence on how page protection shifts article quality, editing effort and conflict, and who keeps contributing: power editors vs. women editors.
+
+- **CHI '25** — Gen AI and creativity: juniors embrace it, professionals guard craft and ownership (N=28). [Read the paper](/files/chi25-150.pdf).
+- **FAccT '26** — ML explanations: novices over-rely out of curiosity, experts under-use out of caution (N=23). [Read the paper](/files/3805689.3812376-2.pdf).
+
+**Toolkit:** Participatory design · Contextual inquiry · Interviews · Workshop experiments · Difference-in-differences · Edit-log analysis
+
+Ask me about: AI reliance · platform governance · co-design with vulnerable users
 
 ## News
 * **May 2026:** Published ["From Curiosity to Caution: How Expertise Shapes the Use of Interpretable Machine Learning"](/files/3805689.3812376-2.pdf) at FAccT 2026.

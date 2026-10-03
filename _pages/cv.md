@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-My research focuses on human-centered AI and machine learning systems, with an emphasis on evaluating and improving how people use AI tools in real-world workflows. I study generative AI and interpretable ML using a mix of empirical evaluation, experimental design, and computational analysis. Across these projects, I build evidence about model use, trust, performance, and deployment-relevant behavior to inform the design of more effective and reliable AI systems.
+I study how technologies, and the rules that govern them, redistribute agency among people with unequal expertise and power. My work spans human-centered AI, platform governance, and participatory design, combining qualitative methods (interviews, contextual inquiry, co-design workshops) with quantitative and causal methods (difference-in-differences, log analysis, statistical modeling).
 
-**Research interests:** Human-Centered AI, Recovery from Substance Use Disorders, Online Communities, ML Interpretability
+**Research interests:** Human-Centered AI, Platform Governance, Recovery from Substance Use Disorders, Online Communities, ML Interpretability
 
 ## Education
 
